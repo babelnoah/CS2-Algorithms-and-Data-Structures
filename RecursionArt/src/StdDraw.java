@@ -21,7 +21,6 @@
  *  -------
  *    -  don't use AffineTransform for rescaling since it inverts
  *       images and strings
- *  Copyright © 2000–2019, Robert Sedgewick and Kevin Wayne.
  ******************************************************************************/
 
 import java.awt.BasicStroke;
