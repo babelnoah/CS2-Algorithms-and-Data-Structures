@@ -3,7 +3,6 @@
  *  Execution:    java Turtle
  *
  *  Data type for turtle graphics using standard draw.
- *  Copyright © 2000–2019, Robert Sedgewick and Kevin Wayne.
  ******************************************************************************/
 
 import java.awt.Color;
