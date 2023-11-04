@@ -1,7 +1,7 @@
 /**
  * A program to recursively create fractal patterns
  *
- * @author Ms. Namasivayam (replace with your name)
+ * @author Noah Babel
  * @version 2022
  */
 public class RecursionArt {
